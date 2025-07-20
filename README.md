@@ -1,6 +1,15 @@
 # Office-Network-Design
-This project involves the design and simulation of a secure, cost-effective, and scalable network using Cisco Packet Tracer. The objective is to create a network layout that caters to the connectivity and isolation needs of various functional areas within a company environment, such as the reception, office, machine room, and meeting rooms.
+This project involved a group of 2 and the design and simulation of a secure, cost-effective, and scalable network using Cisco Packet Tracer. The objective is to create a network layout that caters to the connectivity and isolation needs of various functional areas within a company environment, such as the reception, office, machine room, and meeting rooms.
 
+---
+## 🖥️ How to Open This Project
+
+1. Download and install **Cisco Packet Tracer** (preferably version 8.2 or higher)
+   - [Download here](https://www.netacad.com/courses/packet-tracer)
+2. Open the `.pkt` file by either:
+   - Double-clicking the file if Packet Tracer is installed
+   - Or launching Packet Tracer → File → Open → Select the `.pkt` file
+3. Use the simulation tab to test connectivity, isolation, and internet access.
 ## 🧠 Final Topology & Justification
 
 ### 🌐 Final Topology
